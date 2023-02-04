@@ -1,0 +1,27 @@
+.nav-text {
+    font-family: 'Sporting Grotesque';
+}
+
+.gym {
+    background-color: #6765F0;
+    color: white;
+}
+
+.barn {
+    color: #6765F0;
+}
+
+.nav-link {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.log {
+    background-color: #264373;
+    width: 100px;
+    font-family: 'Poppins';
+}
