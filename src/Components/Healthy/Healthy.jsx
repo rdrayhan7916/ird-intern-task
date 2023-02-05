@@ -3,8 +3,8 @@ import './Healthy.css'
 
 const Healthy = () => {
     return (
-        <div className='flex justify-around mt-8 health'>
-            <div className='text-left left-part'>
+        <div className='flex justify-around mt-8 health '>
+            <div className='text-left left-part '>
                 <h1 className='font-bold text-5xl'> Healthy in side <br />
                     <span className='span'>fresh</span>  out side
                 </h1>

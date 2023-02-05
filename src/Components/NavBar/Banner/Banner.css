@@ -1,0 +1,31 @@
+.banner {
+    background-color: #6462F0;
+
+}
+
+.person {
+    color: #FFFFFF;
+
+}
+
+.person-icon {
+    background-color: #bbb8b8;
+}
+
+.bn-text {
+    font-family: 'Popins';
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .banner {
+        flex-direction: column;
+        margin-left: 20px !important;
+        margin-right: 20px !important;
+        align-items: center;
+    }
+
+    .person {
+        margin-top: 40px;
+    }
+}

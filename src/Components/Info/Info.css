@@ -1,4 +1,30 @@
 .info-htext {
-    font-family: 'Popins';
+    font-family: 'Sporting Grotesque';
 
+}
+
+.info-p {
+    font-family: 'Sporting Grotesque';
+
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .info {
+        grid-template-columns: repeat(1, 1fr) !important;
+        margin-left: 20px;
+
+
+    }
+
+    .info-htext {
+        margin-left: 0px !important;
+    }
+
+    .info-p {
+        margin-top: 12px;
+        text-align: start;
+        margin-left: auto;
+        margin-right: auto;
+    }
 }

@@ -32,3 +32,27 @@
     width: 360px;
     height: 580px;
 }
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    .health {
+        margin-top: 60px !important;
+        flex-direction: column;
+        justify-content: center !important;
+
+    }
+
+    .left-part {
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .img-1 {
+        width: 200px;
+        height: 340px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 72px;
+    }
+}
