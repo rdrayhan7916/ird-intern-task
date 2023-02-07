@@ -36,11 +36,15 @@
 
     }
 
+    .nav-link {
+        margin-bottom: 6px;
+    }
 
 
     .menu-icon {
         color: #0A2259;
     }
+
 
 
 }

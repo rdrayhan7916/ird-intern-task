@@ -38,8 +38,10 @@ const Healthy = () => {
                 </div>
             </div>
             <div>
-                <img className='img-1' src="https://w0.peakpx.com/wallpaper/565/807/HD-wallpaper-gym-bodybuilding-gym-motivation-thumbnail.jpg" alt="Img" />
+                <img className='img-1 ' src="https://w0.peakpx.com/wallpaper/565/807/HD-wallpaper-gym-bodybuilding-gym-motivation-thumbnail.jpg" alt="Img" />
+
             </div>
+
         </div>
     );
 };
